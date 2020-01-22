@@ -230,47 +230,47 @@ CTS is designed as a singly rooted object hierarchy with `System.Object` as the 
 
 ## Q16: What is Kestrel? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q17: Talk about new .csproj file? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q18: What about NuGet packages and packages.config? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q19: What is difference between .NET Core and .NET Framework? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q20: Explain what is included in .NET Core? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q21: What is .NET Standard? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q22: What's the difference between .NET Core, .NET Framework, and Xamarin? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q23: Explain two types of deployment for .NET Core applications ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q24: What is CoreCLR? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q25: Is there a way to catch multiple exceptions at once and without code duplication? ⭐⭐⭐
@@ -295,82 +295,82 @@ catch (OverflowException)
 Is there a way to catch both exceptions and only call the `WebId = Guid.Empty` call once?
 
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q26: Why to use of the IDisposable interface? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q27: Explain the difference between Task and Thread in .NET ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q28: What is FCL? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q29: What's is BCL? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q30: What is implicit compilation? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q31: What is JIT compiler? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q32: What is Explicit Compilation? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q33: What are the benefits of explicit compilation? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q34: What does Common Language Specification (CLS) mean? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q35: Explain the difference between “managed” and “unmanaged” code? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q36: What is the difference between .NET Standard and PCL (Portable Class Libraries)? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q37: What is the difference between Class Library (.NET Standard) and Class Library (.NET Core)? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q38: When should we use .NET Core and .NET Standard Class Library project types? ⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q39: What is the difference between .NET Framework/Core and .NET Standard Class Library project types? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q40: What's the difference between RyuJIT and Roslyn? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q41: Explain how does Asynchronous tasks (Async/Await) work in .NET? ⭐⭐⭐⭐
@@ -389,57 +389,56 @@ private async Task<bool> TestFunction()
 Does the second `await` statement get executed right away or after the first `await` returns?
 
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q42: What are benefits of using JIT? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q43: Why does .NET use a JIT compiler instead of just compiling the code once on the target machine? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q44: What is the difference between CIL and MSIL (IL)? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q45: What is the difference between AppDomain, Assembly, Process, and a Thread? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q46: Why does .NET Standard library exist? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q47: How to choose the target version of .NET Standard library? ⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q48: Explain Finalize vs Dispose usage? ⭐⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q49: What is the difference between Node.js async model and async/await in .NET? ⭐⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q50: How many types of JIT Compilations do you know? ⭐⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
 ## Q51: Could you name the difference between .Net Core, Portable, Standard, Compact, UWP, and PCL? ⭐⭐⭐⭐⭐
 
- See 👉 **[Answer](https://www.fullstack.cafe/.NET Core)**
-
+ See 👉 **[Answer](https://www.fullstack.cafe/.NET%20Core)**
 
 
