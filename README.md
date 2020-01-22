@@ -1,7 +1,8 @@
 # .NET Core Interview Questions And Answers
 
+The sun is setting on .NET Framework. From now on, .NET Core is king. New projects, be they web or desktop, should be started in .NET Core. Stay prepared for your next .NET Core Tech Interview with our list of top .NET Core interview questions and answers.
 
-
+> You could also find all the answers here 👉 https://www.fullstack.cafe/.NET%20Core.
 
 ## Q1: What is .NET Core? ⭐
 
