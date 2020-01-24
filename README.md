@@ -4,6 +4,12 @@ The sun is setting on .NET Framework. From now on, .NET Core is king. New projec
 
 > You could also find all the answers here 👉 https://www.fullstack.cafe/.NET%20Core.
 
+<p align="center">
+  <a href="https://www.fullstack.cafe">
+  <img src="https://user-images.githubusercontent.com/13550565/73042889-e7533900-3e9d-11ea-94f2-b4a9e87cc018.png">
+  </a>
+</p>
+
 ## Q1: What is .NET Core? ⭐
 
 **Answer:**
